@@ -1,0 +1,1 @@
+git clone https://github.com/basa99123/IPL_Dashboard_App IPL_Dashboard_App && mv IPL_Dashboard_App/* ../enhancementOfIplDashboardApp/ && mv IPL_Dashboard_App/.* ../enhancementOfIplDashboardApp
